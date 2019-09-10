@@ -1,0 +1,5 @@
+In this course, the code is available from Section 5 to 8. There is no code for Section 1 to 4.
+
+The codes are named in the format sec05_rec01, sec05_rec02, sec05_rec03, and so on and the same references are given throughout the course by the author, to guide the viewers to the correct code files in the code bundle.
+
+
